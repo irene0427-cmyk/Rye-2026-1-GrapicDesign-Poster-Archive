@@ -3,7 +3,7 @@
 Graphic Design 2026년 1학기 포스터 아카이빙 사이트.  
 GitHub Pages로 무료 호스팅, `posters.json` 파일만 수정해서 포스터를 추가할 수 있어요.
 
-**Live Site:** `https://[your-username].github.io/gdes-archive`
+**Live Site:** `https://[irene0427-cmyk].github.io/gdes-archive`
 
 ---
 
