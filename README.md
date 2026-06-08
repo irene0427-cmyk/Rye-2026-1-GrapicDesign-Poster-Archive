@@ -94,3 +94,100 @@ git add posters.json
 git commit -m "add: [포스터 제목]"
 git push
 ```
+Redesign this website as a bold graphic design poster archive.
+
+The website should feel like an experimental graphic design website, not a generic portfolio or SaaS page.
+
+Visual direction:
+
+- bold editorial layout
+
+- oversized typography
+
+- warm off-white background
+
+- black thin grid lines
+
+- red and blue accent colors
+
+- asymmetric poster placement
+
+- poster images displayed like printed objects on a studio wall
+
+- visible metadata such as index number, title, year, class, and category
+
+Design system:
+
+- Background: #F4F1EA
+
+- Text: #111111
+
+- Muted text: #8A867E
+
+- Line: #D8D2C8
+
+- Accent red: #FF3B30
+
+- Accent blue: #2454FF
+
+- Accent yellow: #FFE45C
+
+- Display font: Helvetica Neue or Neue Haas Grotesk style
+
+- Body font: Pretendard or Inter
+
+- Use large uppercase headings with tight letter spacing
+
+Layout:
+
+- 12-column responsive grid
+
+- Large hero title: POSTER INDEX
+
+- Small intro text under the title
+
+- Gallery layout should be asymmetric, not uniform
+
+- Mix large and small poster thumbnails
+
+- Use thin borders instead of heavy cards
+
+- Avoid rounded SaaS-style cards
+
+- Add hover interactions: poster slightly moves upward, metadata appears or becomes stronger
+
+Pages:
+
+1. Home / Poster Index
+
+2. Gallery
+
+3. Upload Poster
+
+4. Poster Detail
+
+Upload page:
+
+- Make it feel like adding a work to an archive
+
+- Fields: poster image, title, class/project name, year, category, description, tools used
+
+- Button text: Add to Archive
+
+Avoid:
+
+- generic portfolio template style
+
+- gradients
+
+- soft SaaS UI
+
+- colorful cute design
+
+- excessive rounded corners
+
+- heavy shadows
+
+Overall mood:
+
+graphic design studio archive, online exhibition, student poster lab, editorial, experimental, clean but bold.ㅍ
